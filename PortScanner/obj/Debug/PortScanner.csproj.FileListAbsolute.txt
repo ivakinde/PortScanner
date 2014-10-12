@@ -1,0 +1,9 @@
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\obj\Debug\PortScanner.csprojResolveAssemblyReference.cache
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\obj\Debug\PortScanner.Properties.Resources.resources
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.GenerateResource.Cache
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\obj\Debug\PortScanner.exe
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\obj\Debug\PortScanner.pdb
+C:\Users\ivakinde\Documents\Visual Studio 2013\PortScanner\PortScanner\obj\Debug\PortScanner.MainForm.resources
